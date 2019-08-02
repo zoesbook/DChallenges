@@ -1,1 +1,1 @@
-# A collection of DS Challenges
+# A collection of data science challenges
